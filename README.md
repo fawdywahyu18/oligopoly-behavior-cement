@@ -29,6 +29,7 @@ The results contribute to the discussion of policy effectiveness, including econ
   - Average profits for price-takers and price-makers.
   - Market composition over time.
   - Policy-driven strategic adjustments.
+- The model is fully explained in `model_github_fawdy.pdf`.
 
 ---
 
